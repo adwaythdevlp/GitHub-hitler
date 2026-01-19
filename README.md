@@ -15,7 +15,7 @@ Fathima Suhyr
 BHAGATH P 
 Jophin Jith
 Agrima S R              present 
-D Gowry Rejith 
+D Gowry Rejith "Present"
 Devkrishnan H P
 Aslah Ashraf 
 Adwayth Arun 
@@ -40,7 +40,7 @@ B S ASWIN RAJ
 Alan andrew
 Alan andrew
 Aatish Manoj
-Devika B
+Devika B           Present
 Anand
 Abhijith T 
 Devajith H
